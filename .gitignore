@@ -1,0 +1,4 @@
+ENV/
+*.pyc
+*.swp
+csv_api.egg-info
